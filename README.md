@@ -106,6 +106,7 @@ Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 Make sure `GA_input.txt` is located in the same directory as `main.py`.
 
